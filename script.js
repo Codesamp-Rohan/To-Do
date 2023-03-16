@@ -10,7 +10,7 @@ document.querySelector('#push').onclick = function(){
                     ${document.querySelector('#newtask input').value}
                 </span>
                 <button class="delete">
-                    <i class="far fa-trash-alt"><img src="images/delete.png" alt=""></i>
+                    <i class="far fa-trash-alt"><img src="delete.png" alt=""></i>
                 </button>
             </div>
         `;
